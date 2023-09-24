@@ -56,10 +56,10 @@ As a result, by addressing churn, these businesses may not only preserve their m
 1. **Tech Support vs. Churn:** Customers with no Tech Support are more likely to switch to another service provider.
 1. **Device Protection vs. Churn:** Customers without device protection are more likely to churn.
 1. **Online Security vs. Churn:** Most customers churn in the absence of online security.
-1. ` `**Internet Service vs. Churn:** Customers who use Fiber optic internet service have a higher churn rate.
-1. ` `**Tenure vs. Churn:** New customers are more likely to churn.
-1. ` `**Churn vs. Monthly Charges:** A higher % of customers churn when the monthly charges are high.
-1. ` `**Churn vs. Total Charges:**  It seems that there is higer churn when the total charges are lower.
+1. **Internet Service vs. Churn:** Customers who use Fiber optic internet service have a higher churn rate.
+1. **Tenure vs. Churn:** New customers are more likely to churn.
+1. **Churn vs. Monthly Charges:** A higher % of customers churn when the monthly charges are high.
+1. **Churn vs. Total Charges:**  It seems that there is higer churn when the total charges are lower.
 
 1. **Correlation of Churn with other variables :** 
 - Month-to-month contracts, absence of online security and tech support seem to be positively correlated with churn. While, tenure, two-year contracts seem to be negatively correlated with churn.
